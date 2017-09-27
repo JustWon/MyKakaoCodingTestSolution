@@ -1,7 +1,7 @@
 import unittest
 import Quiz2
 
-class KakaoQuiz1Test(unittest.TestCase):
+class KakaoQuiz3Test(unittest.TestCase):
 
     def test1(self):
         cacheSize = 3
